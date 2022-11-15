@@ -6,4 +6,3 @@ while x > 0:
     x -= 1
     sleep(1)
 print("Detonated succesfully")
-print(f"{x} je super a jeste lepsi je {y}")
